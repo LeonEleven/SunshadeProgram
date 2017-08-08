@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="Weather_jar/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="Weather_jar/commons-collections-3.0.jar"/>
+	<classpathentry kind="lib" path="Weather_jar/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="Weather_jar/commons-logging.jar"/>
+	<classpathentry kind="lib" path="Weather_jar/ezmorph-1.0.2.jar"/>
+	<classpathentry kind="lib" path="Weather_jar/json-lib-1.1-jdk13.jar"/>
+	<classpathentry kind="lib" path="Weather_jar/xom-1.0d10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bhL/Desktop/SunshadeProgram/db_mysql_jar/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
